@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local datasets
+HG14/
+webcam_data/
+webcam_cropped/
+
+# Temporary/model checkpoints
+*.h5
+best_*.keras
