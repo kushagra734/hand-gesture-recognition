@@ -1,0 +1,11 @@
+Hand Gesture Recognition - Final Results
+
+Final selected model:
+final_gesture_model.keras
+
+HG14 test accuracy: 97.7619%
+Webcam test accuracy: 47.6190%
+
+The final model was selected after training with the original HG14 training data and oversampled webcam training data.
+
+The webcam result is lower than the HG14 result because webcam images represent a different visual domain from the original dataset.
